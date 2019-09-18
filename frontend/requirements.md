@@ -14,4 +14,5 @@ Instructions:
 2. Design is totally by you.
 3. Countries list at `/countries` must contain the list of countries and the languages spoken in that country. Both in English and native languages. It should also contain the continent it is located in.
 4. `/countries/(:code)` must render the currency and area code (phone) of that country.
-5. End.
+5. Implement `markup.png` as HTML & CSS.
+6. End.
