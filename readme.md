@@ -1,20 +1,18 @@
 # Code Challenge
 
-If you’re reading this, then you’ve applied for a position at Aaroza. There are two tasks:
+If you’re reading this, then you’ve applied for a position at Aaroza. The tasks are organized by two types:
 
-- `frontend` with focus on JavaScript, HTML, CSS.
-- `backend` with focus on Node.js, MongoDB.
+- `backend` with focused on Node.js, MongoDB.
+- `frontend` with focused on JavaScript, HTML, CSS.
 
-You can do one, or you can do two.
+You can do one, or you can do both.
 
 ## Instructions
 
 1. Follow the guidelines in `requirements.md` within the chosen directory.
-2. Follow best practices.
-3. Upload the repo to your Github account and share with us as collaborators:
+2. Upload the repository to your Github account and share with us as collaborators:
   - `joynal` username – Joynal Abedin, Fullstack Developer.
-  - `sohelamin` username – Sohel Amin, Fullstack Developer.
-  - `rifat-uy` username – Rifat Hossain, Frontend Developer.
-  - `mirajehossain` username – Md. Alamin, Fullstack Developer.
-4. Email us at `career@aaroza.com`
-5. Expect a response within seven working days after sharing the task, and you’ll be contacted shortly.
+  - `kmb645` username – Masum, Frontend Developer.
+3. After completing the tasks, email us with Github invitation link & your resume at `career@aaroza.com`. The email subject will be "Javascript intern - [Frontend/Backend/Fullstack]".
+4. Please don't email us without completing the code challenge.
+5. We will contact with you within seven working days after receiving the email.
