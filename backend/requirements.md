@@ -1,14 +1,18 @@
 # Backend task
 
-This task is for demonstrating your understanding of HTTP, REST, Node.js and general API practices.
+This task is for demonstrating your understanding of HTTP, Node.js and general API practices.
+
+Preferred libraries:
+  1. Express
+  2. Mongoose
 
 Instructions:
 
-1. Implement API with any node framework and MongoDB.
+1. Implement with any node framework and MongoDB.
 
 2. Add following API’s.
 
-3. GET - `host/api/actors` will return
+*  GET - `host/api/actors` will return
 
 ```js
 [{
@@ -18,7 +22,7 @@ Instructions:
  }]
 ```
 
-4. POST - `host/api/user/signup` will accept `username`, `password` and will return jwt token. `username` must be unique.
+* POST - `host/api/user/signup` will accept `username`, `password` and will return jwt token. `username` must be unique.
 
 ```js
 {
@@ -26,7 +30,7 @@ Instructions:
 }
 ```
 
-5. POST - `host/api/user/login` will accept `username`, `password` and will return jwt token.
+* POST - `host/api/user/login` will accept `username`, `password` and will return jwt token.
 
 ```js
 {
@@ -34,7 +38,7 @@ Instructions:
 }
 ```
 
-6. Authenticated route. GET - `host/api/movies` will return
+ * Authenticated route. GET - `host/api/movies` will return
 
 ```js
 [{
@@ -48,5 +52,5 @@ Instructions:
     }]
   }]
 ```
-8. End.
+3. End.
 
