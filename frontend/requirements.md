@@ -7,9 +7,9 @@ Preferred libraries:
   2. Axios or fetch
 
 Instructions:
-1. Add following routes:
+1. Add the following routes:
   - `/` - for displaying basic links for the other routes
-  - `/countries` - will render country list from countries api
+  - `/countries` - will render country list from countries API
   - `/countries/(:code)` - will render a single country
 2. Design is totally by you.
 3. Countries list at `/countries` must contain the list of countries and the languages spoken in that country. Both in English and native languages. It should also contain the continent it is located in.

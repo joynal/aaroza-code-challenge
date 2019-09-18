@@ -1,6 +1,6 @@
-# Backend task
+# Backend task
 
-This task is for demonstrating your understanding of HTTP, Node.js and general API practices.
+This task is for demonstrating your understanding of HTTP, Node.js, and general API practices.
 
 Preferred libraries:
   1. Express
@@ -8,18 +8,18 @@ Preferred libraries:
 
 Instructions:
 
-1. Implement with any node framework and MongoDB.
+1. Implement with any node framework and MongoDB.
 
-2. Add following API’s.
+2. Add the following API.
 
-*  GET - `host/api/actors` will return
+*  GET - `host/api/actors` will return
 
 ```js
 [{
-    name
-    birthday
-    country
- }]
+    name
+    birthday
+    country
+ }]
 ```
 
 * POST - `host/api/user/signup` will accept `username`, `password` and will return jwt token. `username` must be unique.
@@ -42,15 +42,14 @@ Instructions:
 
 ```js
 [{
-    title
-    year
-    rating
-    actors: [{
-      name
-      birthday
-      country
-    }]
-  }]
+    title
+    year
+    rating
+    actors: [{
+      name
+      birthday
+      country
+    }]
+  }]
 ```
-3. End.
-
+3. End.
