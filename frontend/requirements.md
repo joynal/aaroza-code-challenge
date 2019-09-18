@@ -1,6 +1,6 @@
 # Frontend task
 
-The following tasks are for demonstrating your understanding of HTML, CSS, Javascript. Use `https://test.com/api/countires`, `https://test.com/api/countires/(:code)` endpoint for REST API.
+The following tasks are for demonstrating your understanding of HTML, CSS, Javascript. Use `https://countriesnode.herokuapp.com/v1/countries`, `https://countriesnode.herokuapp.com/v1/countries/(:code)` endpoint for json data.
 
 Task 1. Add the following routes:
   - `/` - for displaying basic links for the other routes
