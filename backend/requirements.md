@@ -6,9 +6,9 @@ Task 1.  GET - `host/api/actors` will return
 
 ```js
 [{
-    name
-    birthday
-    country
+    name: 'name',
+    birthday: 'birthday',
+    country: 'country'
  }]
 ```
 
@@ -16,7 +16,7 @@ Task 2. POST - `host/api/user/signup` will accept `username`, `password` and wil
 
 ```js
 {
-    token
+    token: 'token'
 }
 ```
 
@@ -24,7 +24,7 @@ Task 3. POST - `host/api/user/login` will accept `username`, `password` and will
 
 ```js
 {
-    token
+    token: 'token'
 }
 ```
 
@@ -32,13 +32,13 @@ Task 4. Authenticated route. GET - `host/api/movies` will return
 
 ```js
 [{
-    title
-    year
-    rating
+    title: 'title',
+    year: 'year',
+    rating: 'rating',
     actors: [{
-      name
-      birthday
-      country
+      name: 'name',
+      birthday: 'birthday',
+      country: 'country'
     }]
   }]
 ```
